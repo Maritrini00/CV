@@ -1,0 +1,54 @@
+h1 {
+    font-family: monospace;
+}
+.nombre-titulo{
+    border: 2px solid rgb(160, 53, 160);
+    padding: 10px;
+}
+
+.nom-tit{
+    align-content: center;
+    text-align: center;
+    font-family: monospace;
+}
+
+#contacto{
+    font-family: monospace;
+    padding: 10px;
+    font-size: x-large;
+}
+#cont{
+    text-align: center;
+    font-size: xx-large;
+}
+
+#list1{
+    text-align: center;
+}
+
+#objetivos{
+    font-size: x-large;
+    font-family: monospace;
+    padding: 10px;
+    text-align: center;
+}
+
+#tuti{
+    float: left;
+    width: 1000px;
+    font-size: x-large;
+    font-family: monospace;
+    text-align: center;
+    padding: 30px;
+}
+
+
+
+#skills{
+    float: right;
+    width: 600px;
+    font-size: x-large;
+    font-family: monospace;
+    text-align: center;
+    padding: 70px;
+}
